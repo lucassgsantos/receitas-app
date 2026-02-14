@@ -4,7 +4,7 @@ const receitas = [
     nome: "Feijoada",
     categoria: "Prato Principal",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Feijoada_01.jpg/342px-Feijoada_01.jpg",
     tags: "Tradicional",
     ingredientes: [
       { nome: "Feijao preto", medida: "500g" },
@@ -25,7 +25,7 @@ const receitas = [
     nome: "Coxinha",
     categoria: "Salgado",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1630409351241-e90e7f5e434d?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coxinha.jpg/600px-Coxinha.jpg",
     tags: "Lanche",
     ingredientes: [
       { nome: "Peito de frango", medida: "500g" },
@@ -46,7 +46,7 @@ const receitas = [
     nome: "Pao de Queijo",
     categoria: "Salgado",
     origem: "Minas Gerais",
-    imagem: "https://images.unsplash.com/photo-1598142982901-df6cec243988?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pao_de_queijo_com_cafe.jpg/600px-Pao_de_queijo_com_cafe.jpg",
     tags: "Mineiro",
     ingredientes: [
       { nome: "Polvilho azedo", medida: "500g" },
@@ -63,7 +63,7 @@ const receitas = [
     nome: "Brigadeiro",
     categoria: "Sobremesa",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1598569304780-9b4a247c5b9f?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrigadeiroBrazil.jpg/600px-BrigadeiroBrazil.jpg",
     tags: "Doce",
     ingredientes: [
       { nome: "Leite condensado", medida: "1 lata" },
@@ -78,7 +78,7 @@ const receitas = [
     nome: "Moqueca Baiana",
     categoria: "Prato Principal",
     origem: "Bahia",
-    imagem: "https://images.unsplash.com/photo-1534939561126-855b8675edd7?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/MOQUECAB.jpg/525px-MOQUECAB.jpg",
     tags: "Nordestino",
     ingredientes: [
       { nome: "File de peixe", medida: "800g" },
@@ -99,7 +99,7 @@ const receitas = [
     nome: "Empadao de Frango",
     categoria: "Prato Principal",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Empad%C3%A3o.JPG/600px-Empad%C3%A3o.JPG",
     tags: "Torta",
     ingredientes: [
       { nome: "Farinha de trigo", medida: "4 xicaras" },
@@ -120,7 +120,7 @@ const receitas = [
     nome: "Acai na Tigela",
     categoria: "Sobremesa",
     origem: "Para",
-    imagem: "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/A%C3%A7a%C3%AD_na_tigela_1.jpg/600px-A%C3%A7a%C3%AD_na_tigela_1.jpg",
     tags: "Saudavel",
     ingredientes: [
       { nome: "Polpa de acai", medida: "400g" },
@@ -137,7 +137,7 @@ const receitas = [
     nome: "Baiao de Dois",
     categoria: "Prato Principal",
     origem: "Ceara",
-    imagem: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bai%C3%A3o_de_dois.jpg/600px-Bai%C3%A3o_de_dois.jpg",
     tags: "Nordestino",
     ingredientes: [
       { nome: "Arroz", medida: "2 xicaras" },
@@ -158,7 +158,7 @@ const receitas = [
     nome: "Pudim de Leite",
     categoria: "Sobremesa",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pudim_de_leite_%283544235183%29.jpg/600px-Pudim_de_leite_%283544235183%29.jpg",
     tags: "Doce",
     ingredientes: [
       { nome: "Leite condensado", medida: "1 lata" },
@@ -174,7 +174,7 @@ const receitas = [
     nome: "Acaraje",
     categoria: "Salgado",
     origem: "Bahia",
-    imagem: "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Acaraje.jpg/600px-Acaraje.jpg",
     tags: "Nordestino",
     ingredientes: [
       { nome: "Feijao fradinho", medida: "500g" },
@@ -193,7 +193,7 @@ const receitas = [
     nome: "Tapioca",
     categoria: "Lanche",
     origem: "Nordeste",
-    imagem: "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tapioca_do_Alto_da_S%C3%A9_-_Olinda-PE.jpg/600px-Tapioca_do_Alto_da_S%C3%A9_-_Olinda-PE.jpg",
     tags: "Leve",
     ingredientes: [
       { nome: "Goma de tapioca", medida: "4 colheres de sopa" },
@@ -208,7 +208,7 @@ const receitas = [
     nome: "Bolo de Cenoura",
     categoria: "Sobremesa",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Peda%C3%A7o_de_Bolo_de_Cenoura%2C_08-12-2020.jpg/600px-Peda%C3%A7o_de_Bolo_de_Cenoura%2C_08-12-2020.jpg",
     tags: "Bolo",
     ingredientes: [
       { nome: "Cenoura", medida: "3 unidades" },
@@ -228,7 +228,7 @@ const receitas = [
     nome: "Arroz Carreteiro",
     categoria: "Prato Principal",
     origem: "Rio Grande do Sul",
-    imagem: "https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arroz_carreteiro.jpg/600px-Arroz_carreteiro.jpg",
     tags: "Gaucho",
     ingredientes: [
       { nome: "Arroz", medida: "2 xicaras" },
@@ -247,7 +247,7 @@ const receitas = [
     nome: "Pastel de Feira",
     categoria: "Salgado",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brazilian_pastel.jpg/600px-Brazilian_pastel.jpg",
     tags: "Lanche",
     ingredientes: [
       { nome: "Farinha de trigo", medida: "3 xicaras" },
@@ -267,7 +267,7 @@ const receitas = [
     nome: "Misto Quente",
     categoria: "Lanche",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mmm...hot_ham_and_cheese_with_homemade_mustard_%284970848133%29.jpg/600px-Mmm...hot_ham_and_cheese_with_homemade_mustard_%284970848133%29.jpg",
     tags: "Rapido",
     ingredientes: [
       { nome: "Pao de forma", medida: "2 fatias" },
@@ -282,7 +282,7 @@ const receitas = [
     nome: "Bolinho de Chuva",
     categoria: "Sobremesa",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bolinho_de_chuva.jpg/600px-Bolinho_de_chuva.jpg",
     tags: "Doce",
     ingredientes: [
       { nome: "Farinha de trigo", medida: "2 xicaras" },
@@ -300,7 +300,7 @@ const receitas = [
     nome: "Frango a Parmegiana",
     categoria: "Prato Principal",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Chicken_parmigiana.jpg/600px-Chicken_parmigiana.jpg",
     tags: "Classico",
     ingredientes: [
       { nome: "Peito de frango", medida: "4 files" },
@@ -320,7 +320,7 @@ const receitas = [
     nome: "Farofa de Bacon",
     categoria: "Acompanhamento",
     origem: "Brasil",
-    imagem: "https://images.unsplash.com/photo-1574484284002-952d92456975?w=600&h=450&fit=crop",
+    imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Farofa_brazil.jpg/600px-Farofa_brazil.jpg",
     tags: "Acompanhamento",
     ingredientes: [
       { nome: "Farinha de mandioca", medida: "2 xicaras" },
