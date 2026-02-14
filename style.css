@@ -95,23 +95,6 @@ a:hover {
     flex-shrink: 0;
 }
 
-.logo-icon {
-    font-size: 28px;
-    animation: logoFloat 3s ease-in-out infinite;
-}
-
-@keyframes logoFloat {
-
-    0%,
-    100% {
-        transform: translateY(0);
-    }
-
-    50% {
-        transform: translateY(-4px);
-    }
-}
-
 .logo-text {
     font-size: 22px;
     font-weight: 700;
