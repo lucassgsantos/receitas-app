@@ -1,0 +1,12 @@
+{
+  "name": "receitasbr",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "node tools/dev-server.js 4173",
+    "test:smoke": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
